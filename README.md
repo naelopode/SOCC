@@ -12,5 +12,6 @@ A conda environment is provided to run the code
 
 
 # Purpose
-This code was produced for an Analysis of the Evolution of Rhetoric and State Repression in French Ecological Activism
+This code was produced for an Analysis of the Evolution of Rhetoric and State Repression in French Ecological Activism.
+
 A Comparative Study of the 2014 Sivens Dam Occupation and the 2022-2023 Sainte-Soline demonstrations.
